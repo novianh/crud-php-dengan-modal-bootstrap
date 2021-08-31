@@ -1,0 +1,1 @@
+<img src="image/error.png" class=" mx-auto d-block" alt="404 error" style="width: 90%;">
