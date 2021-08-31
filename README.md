@@ -1,6 +1,7 @@
 
 # crud-php-dengan-modal-bootstrap
-berikut projek kecil saya tetang crud php menggunakan bootstrap v5
+berikut projek saya tetang crud php menggunakan bootstrap v5. 
+hope you enjoy it!!
 
 <h2>hasil projek</h2>
 <img width="928" alt="ss" src="https://user-images.githubusercontent.com/73828109/131531587-00d3b498-fb2f-47b8-beeb-fcc90bd21859.png">
